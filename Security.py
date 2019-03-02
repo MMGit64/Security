@@ -30,10 +30,8 @@ print(decryptedCode)
 ofile = open("codeDecrypted.txt", "w")
 f = open("Securitycode.txt", "r+")
 for list in f:
-    #list = list.replace('X', 'Intruder') 
     fileDecrypted = decrypt(list)
     ofile.write(fileDecrypted)
-    #ofile.write(list)
 ofile.close()
 f.close()   
 
