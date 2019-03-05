@@ -2,4 +2,4 @@
 
 Editor: Mustafa Mossa
 
-Write code to crack code! 
+Using the Define fucntion, write code to crack code! 
