@@ -2,4 +2,4 @@
 
 Editor: Mustafa Mossa
 
-Using the Define fucntion, write code to crack code! 
+Using the Define function, write code to crack code! 
